@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anthony-ware/motavationalapp/issues"
   },
-  "homepage": "https://github.com/anthony-ware/motavationalapp#readme"
+  "homepage": "https://github.com/anthony-ware/motavationalapp#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
